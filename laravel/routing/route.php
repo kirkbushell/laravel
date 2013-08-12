@@ -1,7 +1,7 @@
 <?php namespace Laravel\Routing;
 
 use Closure;
-use \Controller;
+use Controller;
 use Laravel\Str;
 use Laravel\URI;
 use Laravel\Bundle;
